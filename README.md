@@ -22,7 +22,5 @@ To use Fjord without it being compiled, go into to the directory which you have 
 ```bash 
 py fjord.py
 ```
-
-
 ## 👨‍💻 contribution
 Pull requests are always welcome. For major changes please open an issue to discuss what you would like to change. Please make sure to update tests as appropriate. If you come across any bugs please open an issue and clearly state what the problem is and if applicable attach the log file or screenshot it. If you would like to see certain features or functions added to Fjord please messeage me on discord or twitter.
