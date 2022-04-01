@@ -1,5 +1,5 @@
 # ![alt text](https://github.com/x1comp/Tweaking-Utility/blob/main/assets/logo.png)    Fjord
-Fjord is an open source Tweaking Utility which is used to optimize your windows machine to reach its maximum performance. It allows users to apply advanced tweaks through a minimalistic graphical user interface. Fjord can be used on any windows system, from low-end machines all the way up to top of the line gaming pc's. My goal when creating Fjord was to fix performance issues when running CPU and GPU intesive tasks such as gaming, editing, machine learning, crypto mining and etc through a clean and minimalistic user interface so that it can be widely accessable.
+Fjord is an open source Tweaking Utility which is used to optimize windows machine to reach its maximum performance. It allows users to apply advanced tweaks through a minimalistic graphical user interface. Fjord can be used on any windows system, from low-end machines all the way up to top of the line gaming pc's. My goal when creating Fjord was to fix performance issues when running CPU and GPU intesive tasks such as gaming, editing, machine learning, crypto mining and etc through a clean and minimalistic user interface so that it can be widely accessable.
 
 ## 🎯 installation
 Firsly clone the directory using [git](https://git-scm.com/) .
