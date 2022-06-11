@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+﻿Windows Registry Editor Version 5.00 --- 
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management]
+"FeatureSettingsOverride"=dword:00000003
+"FeatureSettingsOverrideMask"=dword:00000003
+=======
+﻿Windows Registry Editor Version 5.00 --- 
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management]
+"FeatureSettingsOverride"=dword:00000003
+"FeatureSettingsOverrideMask"=dword:00000003
+>>>>>>> 8f11eae (V1.3.0)
